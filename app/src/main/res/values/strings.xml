@@ -1,5 +1,12 @@
 <resources>
-    <string name="app_name">GitHubSearch</string>
+    <string name="app_name">GitHub Search</string>
     <string name="nome_usuario">Nome do usuário</string>
     <string name="confirmar">Confirmar</string>
+    <string name="saved_usuario">Salvar Usuário</string>
+    <string name="descricao_wifi_off">Sinal wifi</string>
+    <string name="text_wifi_off">Sem Conecção com a Internet!</string>
+    <string name="response_error">Usuário não encontrado</string>
+    <string name="descricao_ic_share">Ícone de Compartilhamento</string>
+    <string name="nome_repositorio">Nome do Repositório</string>
+
 </resources>
